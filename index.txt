@@ -1,0 +1,3 @@
+Name: yash
+Class: B
+Subject: wad
